@@ -1,0 +1,2 @@
+{ "_id" : { "$oid" : "61f06c1b3d65ee46baf19350" }, "code" : 100.0, "raisoc" : "Assistance", "email" : "assistance@gmail.com", "tel" : "11111111" }
+{ "_id" : { "$oid" : "61f06c4f3d65ee46baf19351" }, "code" : 101.0, "raisoc" : "InfoMagazine", "email" : "infomag@gmail.com", "tel" : "458745" }

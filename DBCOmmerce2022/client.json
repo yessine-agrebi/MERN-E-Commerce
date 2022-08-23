@@ -1,0 +1,2 @@
+{ "_id" : { "$oid" : "61ef1b44ceab2a3de9aaba65" }, "code" : "100", "nom" : "societex", "adresse" : "sfax" }
+{ "_id" : { "$oid" : "61ef1b81ceab2a3de9aaba69" }, "code" : "101", "nom" : "societey", "adresse" : "Sousse" }

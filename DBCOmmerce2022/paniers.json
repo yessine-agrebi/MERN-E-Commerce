@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "609882274e330f30ec2fa6a0" }, "refarticle" : { "$oid" : "609879c57377ab21903b092d" }, "refcommande" : { "$oid" : "60987cbfc05eb51c340ac468" }, "qte_ach" : 10, "remise" : 0, "tot_ligne" : 2500, "__v" : 0 }
