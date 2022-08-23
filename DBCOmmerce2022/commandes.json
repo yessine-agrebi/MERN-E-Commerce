@@ -1,2 +1,0 @@
-{ "_id" : { "$oid" : "60987cbfc05eb51c340ac468" }, "paye" : true, "refcommande" : "125fss", "client" : { "$oid" : "609907d5c0de5b18bccb3127" }, "dateAchat" : { "$date" : "2021-10-04T22:00:00.000+0000" }, "mt_total" : 3500, "__v" : 0 }
-{ "_id" : { "$oid" : "609ba2dd3fc9ec5adc744e74" }, "paye" : false, "refcommande" : "PO12598s", "client" : { "$oid" : "609a64f10c806f32e04bb47a" }, "dateAchat" : { "$date" : "2021-10-04T22:00:00.000+0000" }, "mt_total" : 2400, "__v" : 0 }
